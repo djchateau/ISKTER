@@ -18,7 +18,7 @@
 
 ## Practice
 
-- LeetCode (https://leetcode.com/problemset/all/)
+- [LeetCode](https://leetcode.com/problemset/all/)
 - Advent of Code (https://adventofcode.com/)
 - Exercism (https://exercism.org/tracks/c/)
 - Socket programming bible (https://beej.us/guide/bgnet/)
@@ -44,6 +44,8 @@
 - [HSCTF](https://hsctf.com/)
 - [ångstromCTF](https://angstromctf.com/)
 - [PACTF](https://pactf.com/)[^1]
+- [OverTheWire](https://overthewire.org/wargames/)
+- [UnderTheWire](https://underthewire.tech/wargames)
 
 - PPP: https://zaratec.io/ctf-practice/
 - RPISEC: https://github.com/RPISEC/MBE/tree/master
