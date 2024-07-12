@@ -104,9 +104,5 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)
 - [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html)
 - [vimium](https://github.com/philc/vimium)
- 
-
-
-A
 
 [^1]: Has not been run since 2019.
