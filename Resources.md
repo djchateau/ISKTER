@@ -92,4 +92,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 - [CTF Radiooo](https://www.youtube.com/channel/UC-aOX0H7RXOrxzzJjWb17lg)
 - [Darknet Diaries](https://darknetdiaries.com/)
 
+## News Aggregation
+
+- [Bleeping Computer's Security News Feed](https://www.bleepingcomputer.com/news/security/)
 [^1]: Has not been run since 2019.
