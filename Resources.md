@@ -95,4 +95,5 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 ## News Aggregation
 
 - [Bleeping Computer's Security News Feed](https://www.bleepingcomputer.com/news/security/)
+
 [^1]: Has not been run since 2019.
