@@ -58,7 +58,7 @@
 
 - https://exploit.education/phoenix/
 - https://overthewire.org/wargames/vortex/vortex0.html
-
+- https://pwn.college 
 
 ### CTF Classes
 
@@ -98,6 +98,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 ### Useful Browser Extensions
 
+- [Hack Tools](https://github.com/LasCC/HackTools)
 - [FoxyProxy](https://getfoxyproxy.org/)
 - [Livemarks](https://github.com/nt1m/livemarks/)
 - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
