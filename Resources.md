@@ -64,6 +64,10 @@
 
 - Join the CWA-67 Cyber Competition Team (CCT) discord for classes about CTF: https://discord.gg/vJd6HCnVNB
 
+## Reporting
+
+- [Dradis CE](https://dradis.com/ce/)
+
 ## Community/Discussion
 
 - **Discord:**
