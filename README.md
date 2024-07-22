@@ -133,6 +133,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 ### RSS Feeds
 
+- [/dev/random/](blog.rootshell.be/feed)i[^3]
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/feed/)
 - [Bishop Fox Blog](https://bishopfox.com/feeds/blog.rss)
 - [Black Hills Information Security](https://www.blackhillsinfosec.com/feed/)
@@ -152,3 +153,4 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 [^1]: Has not been run since 2019.
 [^2]: Last episode appears to been posted in April 2022.
+[^3]: Last feed update was back in October 2023, but still lots of useful information here.
