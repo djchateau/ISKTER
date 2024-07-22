@@ -23,7 +23,7 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Multi-Use
 
-- [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created by the UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
+- [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created and maintained by UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
 
 ### Enumeration
 
