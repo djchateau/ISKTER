@@ -1,4 +1,4 @@
-# Information Security Knowledge. Training, and Educational Resources:
+# Information Security Knowledge, Training, and Educational Resources
 
 ## Reading List informing the “Why?”
 
