@@ -136,7 +136,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 ### RSS Feeds
 
-- [/dev/random/](blog.rootshell.be/feed)i[^3]
+- [/dev/random/](blog.rootshell.be/feed)[^3]
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/feed/)
 - [Bishop Fox Blog](https://bishopfox.com/feeds/blog.rss)
 - [Black Hills Information Security](https://www.blackhillsinfosec.com/feed/)
