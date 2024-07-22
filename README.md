@@ -145,6 +145,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 - [CISA Blog](https://www.cisa.gov/blog.xml)
 - [CISA Advisories (All)](https://www.cisa.gov/cybersecurity-advisories/all.xml)
 - [Crowdstrike Blog](https://www.crowdstrike.com/blog/feed)
+- [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
 - [IT Security Guru](https://www.itsecurityguru.org/feed/)
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
