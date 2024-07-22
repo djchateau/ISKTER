@@ -1,6 +1,6 @@
 # Information Security Knowledge, Training, and Educational Resources
 
-Welcome to my repository of resources to help the budding information security professional round out their knowledge-base on tools, training and education around our industry. I hope you find this information useful and helpful. Please feel free to fork this and add to it if you think something is missing here. My only expectations on these lists is that the resource added has been vetted for quality and is something you've personally used and found benefit from at some point or another. What I don't want to is to fill this with resources that are either dead, have no relevancy or just become another dead pile of links that will serve no one. 
+Welcome to my repository of resources to help the budding information security professional round out their knowledge-base on tools, training and education around our industry. I hope you find this information useful. Please feel free to fork this and add to it if you think something is missing here. My only expectations on these lists is that the resource added has been vetted for quality and is something you've personally used and found benefit from at some point or another. What I don't want to is to fill this with resources that are either dead, have no relevancy or just become another dead pile of links that will serve no one. 
 
 
 ## Reading List informing the “Why?”
