@@ -1,4 +1,4 @@
-# Information Security Training and Educational Resources:
+# Information Security Knowledge. Training, and Educational Resources:
 
 ## Reading List informing the “Why?”
 
@@ -16,49 +16,48 @@
 
 - [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/) by Jon Erickson
 
-## Practice
+## Coding Practice
 
 - [LeetCode](https://leetcode.com/problemset/all/)
-- Advent of Code (https://adventofcode.com/)
-- Exercism (https://exercism.org/tracks/c/)
-- Socket programming bible (https://beej.us/guide/bgnet/)
+- [Advent of Code](https://adventofcode.com/)
+- [Exercism](https://exercism.org/tracks/c/)
+- [Socket Programming Bible](https://beej.us/guide/bgnet/)
 
 ## University Online Course Material
 
-- [Operating System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 - [15-410, Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
-- [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)
+- [Operating System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 - [Computation Structures: Procedures and Stacks](https://computationstructures.org/lectures/stacks/stacks.html)
 - [Cornell ECE Open Courseware](https://ocw.ece.cornell.edu/)
+- [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)
 
 ## Binary Exploitation
 
-- [ROP Emporium](https://ropemporium.com/index.html)
 - [Learn how to use Ghidra](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass)
 - [PicoCTF (binary exploit and RE)](https://picoctf.com/)
 - [PwnTools](https://github.com/Gallopsled/pwntools-tutorial): A fantastic python module to know for exploitation purposes. 
+- [ROP Emporium](https://ropemporium.com/index.html)
 
 ## CTFs
 
+- [ångstromCTF](https://angstromctf.com/)
 - [picoCTF](https://picoctf.com/)
 - [HSCTF](https://hsctf.com/)
-- [ångstromCTF](https://angstromctf.com/)
 - [PACTF](https://pactf.com/)[^1]
 - [OverTheWire](https://overthewire.org/wargames/)
 - [UnderTheWire](https://underthewire.tech/wargames)
-
-- PPP: https://zaratec.io/ctf-practice/
-- RPISEC: https://github.com/RPISEC/MBE/tree/master
-- CyberStakes: https://www.acictf.com/
-- BE/RE Self-Paced Course: https://guyinatuxedo.github.io/index.html
-- BE/RE Self-Pace Course 2: https://ir0nstone.gitbook.io/notes/
-- https://opensecuritytraining.info/LifeOfBinaries.html
+- [PPP](https://zaratec.io/ctf-practice/)
+- [RPISEC](https://github.com/RPISEC/MBE/tree/master)
+- [CyberStakes](https://www.acictf.com/)
+- [BE/RE Self-Paced Course](https://guyinatuxedo.github.io/index.html)
+- [BE/RE Self-Pace Course 2](https://ir0nstone.gitbook.io/notes/)
+- [Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 
 ### Binary exploitation challenges to practice with
 
-- https://exploit.education/phoenix/
-- https://overthewire.org/wargames/vortex/vortex0.html
-- https://pwn.college 
+- [Exploit Education: Phoenix](https://exploit.education/phoenix/)
+- [OverTheWire: Vortex](https://overthewire.org/wargames/vortex/vortex0.html)
+- [pwn.college](https://pwn.college)
 
 ### CTF Classes
 
@@ -71,13 +70,15 @@
 ## Community/Discussion
 
 - **Discord:**
-  - [Reverse Engineering](https://discord.com/invite/rtfm)
-  - [OpenToAll](https://opentoallctf.github.io/)
-  - [picoCTF](https://picoctf.org/discord)
   - [CryptoHack](https://discord.gg/h9E7cna5pV)
+  - [Dead Pixel Sec](https://discord.com/invite/deadpixelsec)
+  - [OpenToAll](https://discord.gg/saVj85jjFy)
+  - [picoCTF](https://picoctf.org/discord)
+  - [Reverse Engineering](https://discord.com/invite/rtfm)
+  - [Rhino Security Labs](https://discord.gg/xFXmqytprV)
 - **Reddit:**
-  - [/r/securityCTF](https://www.reddit.com/r/securityCTF/)
   - [/r/LiveOverflow](https://www.reddit.com/r/LiveOverflow/)
+  - [/r/securityCTF](https://www.reddit.com/r/securityCTF/)
 
 ## Content Creators
 
@@ -95,10 +96,28 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 - [CTF Radiooo](https://www.youtube.com/channel/UC-aOX0H7RXOrxzzJjWb17lg)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [Security Chipmunks](https://securitychipmunks.com/)[^2]
+- [Unsecurity](https://frsecure.com/unsecurity/)
 
 ## News Aggregation
 
-- [Bleeping Computer's Security News Feed](https://www.bleepingcomputer.com/news/security/)
+### RSS Feeds
+
+- [AWS Security Blog](https://aws.amazon.com/blogs/security/feed/)
+- [Bishop Fox Blog](https://bishopfox.com/feeds/blog.rss)
+- [Black Hills Information Security](https://www.blackhillsinfosec.com/feed/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/feed/)
+- [CISA News](https://www.cisa.gov/news.xml)
+- [CISA Blog](https://www.cisa.gov/blog.xml)
+- [CISA Advisories (All)](https://www.cisa.gov/cybersecurity-advisories/all.xml)
+- [Crowdstrike Blog](https://www.crowdstrike.com/blog/feed)
+- [Hacking Articles](http://hackingarticles.in/feed)
+- [IT Security Guru](https://www.itsecurityguru.org/feed/)
+- [Krebs on Security](https://krebsonsecurity.com/feed/)
+- [Sentinel One Blog](https://www.sentinelone.com/blog/feed/)
+- [Schneir on Security](https://www.schneier.com/feed/atom/)
+- [The Hacker News](https://feeds.feedburner.com/TheHackersNews)
+- [Troy Hunt's Blog](https://www.itsecurityguru.org/feed/)
 
 ### Useful Browser Extensions
 
@@ -111,3 +130,4 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 - [vimium](https://github.com/philc/vimium)
 
 [^1]: Has not been run since 2019.
+[^2]: Last episode appears to been posted in April 2022.
