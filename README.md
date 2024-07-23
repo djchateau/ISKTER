@@ -47,6 +47,7 @@ Welcome to my repository of resources to help the budding information security p
 - [Hack Tools](https://github.com/LasCC/HackTools): Provides a wide-variety of payloads and other useful shell commands you can use during an engagement.
 - [Livemarks](https://github.com/nt1m/livemarks/): A RSS Feed reader uses your bookmarks folders to maintain RSS feeds you provide it.
 - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
+- [Search By Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/): A powerful reverse image search tool, with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin): The go-to when it comes to ad-blocking while being CPU-performant.
 - [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html): A versatile user agent switcher.
 - [vimium](https://github.com/philc/vimium): It's not enough to have vim in your terminal. Show your browser some love by putting vim motions into your browser too.
