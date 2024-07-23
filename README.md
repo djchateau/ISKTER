@@ -97,6 +97,10 @@ Welcome to my repository of resources to help the budding information security p
 
 ## Documentation
 
+### Text Editors
+
+- [vim](https://www.vim.org/): Included in most Linux and Unix-like operating systems by default, vim is a lightweight, yet powerful, modal text editor that can be easily used in your terminal or through and SSH and tmux and is highly extensible. It is available on most operating systems.
+
 ### Note-Taking
 
 - [Obsidian](https://obsidian.md/): Note-taking application available on both desktop and mobile using Markdown and a diverse array of community plugins to customize your note-taking to your workflow. Because everything is stored in Markdown and stored locally, it can make transforming your notes into reports that you may need to generate down the road.
@@ -125,10 +129,9 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Notable Creators/Streamers
 
-John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, learning more about reverse engineering and binary exploitation, etc.
-
+- [DJ Chateau](https://www.twitch.tv/dj_chateau): Ok, sure. I'm tooting my own horn here, but I stream on Twitch pretty regularly doing boxes from platforms like TryHackMe, HackTheBox, and react to and discuss various information security topics.
 - [John Hammand](https://www.youtube.com/c/JohnHammond010/playlists): Security researcher at Huntress with a large following and a solid number of videos going over various security news, CTFs and other platforms like TryHack and HackTheBox.
-- [LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- [LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): LiveOverflow has an excellent array of videos on binary exploitation and reverse-engineering that are worth going through.
 - [Tib3rius](https://www.youtube.com/@Tib3rius): Well-known web application pentester and creator of [AutoRecon](https://github.com/Tib3rius/AutoRecon).
 
 ### Podcasts
