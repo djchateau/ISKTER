@@ -25,6 +25,11 @@ Welcome to my repository of resources to help the budding information security p
 
 - [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created and maintained by UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
 
+
+### Home Labs
+
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev/): A Windows and Office activator using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
 ### Enumeration
 
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
