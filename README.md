@@ -95,7 +95,13 @@ Welcome to my repository of resources to help the budding information security p
 
 - [CWA-67 Cyber Competition Team (CCT) Discord](https://discord.gg/vJd6HCnVNB)
 
-## Reporting
+## Documentation
+
+### Note-Taking
+
+- [Obsidian](https://obsidian.md/): Note-taking application available on both desktop and mobile using Markdown and a diverse array of community plugins to customize your note-taking to your workflow. Because everything is stored in Markdown and stored locally, it can make transforming your notes into reports that you may need to generate down the road.
+
+### Reporting
 
 - [Dradis CE](https://dradis.com/ce/)
 
@@ -145,6 +151,7 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 - [CISA Blog](https://www.cisa.gov/blog.xml)
 - [CISA Advisories (All)](https://www.cisa.gov/cybersecurity-advisories/all.xml)
 - [Crowdstrike Blog](https://www.crowdstrike.com/blog/feed)
+- [Expression with Curiosity: Security Lesson Bytes](https://maybelynplecic.substack.com/feed?sectionId=123773)
 - [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
 - [IT Security Guru](https://www.itsecurityguru.org/feed/)
@@ -156,5 +163,5 @@ John Hammond and Liveoverflow have fantastic Youtube channels for CTF writeups, 
 
 
 [^1]: Has not been run since 2019.
-[^2]: Last episode appears to been posted in April 2022.
+[^2]: Last episode appears to been posted in April 2022, but still worth listening through the available episodes.
 [^3]: Last feed update was back in October 2023, but still lots of useful information here.
