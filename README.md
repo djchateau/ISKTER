@@ -163,6 +163,7 @@ Welcome to my repository of resources to help the budding information security p
 - [Expression with Curiosity: Security Lesson Bytes](https://maybelynplecic.substack.com/feed?sectionId=123773)
 - [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
+- [HackTheBox  Blog (All Content)](https://www.hackthebox.com/rss/blog/all)
 - [IT Security Guru](https://www.itsecurityguru.org/feed/)
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
 - [Sentinel One Blog](https://www.sentinelone.com/blog/feed/)
