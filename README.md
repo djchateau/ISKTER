@@ -32,7 +32,14 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Enumeration
 
+#### Networking
+
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
+
+#### Privilege Escalation
+
+- [peass-ng](https://github.com/peass-ng/PEASS-ng): These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
+
 
 ### Reverse-Engineering
 
