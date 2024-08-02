@@ -28,13 +28,19 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Home Labs
 
+- [GOAD (Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD): GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
 - [Microsoft Activation Scripts (MAS)](https://massgrave.dev/): A Windows and Office activator using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ### Enumeration
 
-#### Networking
+#### Network
 
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [impacket](https://github.com/fortra/impacket): Impacket is a collection of Python3 classes focused on providing access to network packets. Impacket is highly effective when used in conjunction with a packet capture utility or package such as Pcapy. 
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Scans and identifies software/services used on a given target website.
+
+
 
 #### Privilege Escalation
 
@@ -121,6 +127,7 @@ Welcome to my repository of resources to help the budding information security p
 ### Reporting
 
 - [Dradis CE](https://dradis.com/ce/)
+- [SysReptor](https://github.com/syslifters/sysreptor/): A fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people. Easy report writing using Markdown, HTML and CSS that can be converted into a clean looking PDF. Open-source and self-hosting options are available.
 
 ## Community/Discussion
 
