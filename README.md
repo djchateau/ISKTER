@@ -82,7 +82,7 @@ Welcome to my repository of resources to help the budding information security p
 - [Computation Structures: Procedures and Stacks](https://computationstructures.org/lectures/stacks/stacks.html)
 - [Cornell ECE Open Courseware](https://ocw.ece.cornell.edu/)
 - [Operating System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
-- [pwntools Tutorial](https://github.com/Gallopsled/pwntools-tutorial): A fantastic python module to know for exploitation purposes. 
+- [pwntools Tutorial](https://github.com/Gallopsled/pwntools-tutorial): A fantastic python module to know for binary exploitation purposes. 
 - [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)
 
 ## Binary Exploitation
@@ -178,6 +178,7 @@ Welcome to my repository of resources to help the budding information security p
 - [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
 - [HackTheBox  Blog (All Content)](https://www.hackthebox.com/rss/blog/all)
+- [Impose Cost](https://www.imposecost.net/blog-feed.xml)
 - [IT Security Guru](https://www.itsecurityguru.org/feed/)
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
 - [Sentinel One Blog](https://www.sentinelone.com/blog/feed/)
