@@ -97,16 +97,17 @@ Welcome to my repository of resources to help the budding information security p
 - [OverTheWire: Vortex](https://overthewire.org/wargames/vortex/vortex0.html)
 - [pwn.college](https://pwn.college)
 
-## CTFs
+## Capture the Flags (CTF)
 
 - [ångstromCTF](https://angstromctf.com/)
 - [CyberStakes](https://www.acictf.com/)
+- [MetaCTF Competition](https://app.metactf.com/): Great CTF for a short CTF to flex your muscle on.
 - [picoCTF](https://picoctf.com/)
 - [HSCTF](https://hsctf.com/)
 - [Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [PACTF](https://pactf.com/)[^1]
 - [PPP](https://zaratec.io/ctf-practice/)
-- [OverTheWire](https://overthewire.org/wargames/)
+- [OverTheWire](https://overthewire.org/wargames/): Great beginner platform for those looking to getting into CTFs to practice on Linux boxes, particularly their Bandit server.
 - [RPISEC](https://github.com/RPISEC/MBE/tree/master)
 - [UnderTheWire](https://underthewire.tech/wargames)
 
