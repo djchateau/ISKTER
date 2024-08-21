@@ -175,6 +175,7 @@ Welcome to my repository of resources to help the budding information security p
 - [CISA Advisories (All)](https://www.cisa.gov/cybersecurity-advisories/all.xml)
 - [Crowdstrike Blog](https://www.crowdstrike.com/blog/feed)
 - [Expression with Curiosity: Security Lesson Bytes](https://maybelynplecic.substack.com/feed?sectionId=123773)
+- [MetaCTF Announcements](https://metactf.com/blog/tag/announcements/feed/)
 - [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
 - [HackTheBox  Blog (All Content)](https://www.hackthebox.com/rss/blog/all)
