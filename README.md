@@ -33,14 +33,16 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Enumeration
 
+#### Users
+
+- [Finger User Enumeration Script](https://github.com/pentestmonkey/finger-user-enum): Username guessing tool primarily for use against the default Solaris finger service. Also supports relaying of queries through another finger server.
+
 #### Network
 
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [impacket](https://github.com/fortra/impacket): Impacket is a collection of Python3 classes focused on providing access to network packets. Impacket is highly effective when used in conjunction with a packet capture utility or package such as Pcapy. 
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Scans and identifies software/services used on a given target website.
-
-
 
 #### Privilege Escalation
 
