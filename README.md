@@ -36,13 +36,16 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Enumeration
 
+#### Users
+
+- [Finger User Enumeration Script](https://github.com/pentestmonkey/finger-user-enum): Username guessing tool primarily for use against the default Solaris finger service. Also supports relaying of queries through another finger server.
+
 #### Network
 
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon): AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [impacket](https://github.com/fortra/impacket): Impacket is a collection of Python3 classes focused on providing access to network packets. Impacket is highly effective when used in conjunction with a packet capture utility or package such as Pcapy. 
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Scans and identifies software/services used on a given target website.
-
 
 #### Privilege Escalation
 
@@ -99,16 +102,17 @@ Welcome to my repository of resources to help the budding information security p
 - [OverTheWire: Vortex](https://overthewire.org/wargames/vortex/vortex0.html)
 - [pwn.college](https://pwn.college)
 
-## CTFs
+## Capture the Flags (CTF)
 
 - [ångstromCTF](https://angstromctf.com/)
 - [CyberStakes](https://www.acictf.com/)
+- [MetaCTF Competition](https://app.metactf.com/): Great CTF for a short CTF to flex your muscle on.
 - [picoCTF](https://picoctf.com/)
 - [HSCTF](https://hsctf.com/)
 - [Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [PACTF](https://pactf.com/)[^1]
 - [PPP](https://zaratec.io/ctf-practice/)
-- [OverTheWire](https://overthewire.org/wargames/)
+- [OverTheWire](https://overthewire.org/wargames/): Great beginner platform for those looking to getting into CTFs to practice on Linux boxes, particularly their Bandit server.
 - [RPISEC](https://github.com/RPISEC/MBE/tree/master)
 - [UnderTheWire](https://underthewire.tech/wargames)
 
@@ -152,11 +156,10 @@ Welcome to my repository of resources to help the budding information security p
 ### Notable Creators/Streamers
 
 - [DJ Chateau](https://www.twitch.tv/dj_chateau): Ok, sure. I'm tooting my own horn here, but I stream on Twitch pretty regularly doing boxes from platforms like TryHackMe, HackTheBox, and react to and discuss various information security topics.
-- [Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey): Under the mindset of "Hack Smarter", not harder (as often touted by OffSec), Tyler streams on both [Twitch](https://www.twitch.tv/hack_smarter) and [YouTube](https://www.youtube.com/@TylerRamsbey) sharing his methodologies for approaching CTF boxes on platforms like HackTheBox or discussing other aspects of the information security industry.
-
 - [John Hammand](https://www.youtube.com/c/JohnHammond010/playlists): Security researcher at Huntress with a large following and a solid number of videos going over various security news, CTFs and other platforms like TryHack and HackTheBox.
 - [LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): LiveOverflow has an excellent array of videos on binary exploitation and reverse-engineering that are worth going through.
 - [Tib3rius](https://www.youtube.com/@Tib3rius): Well-known web application pentester and creator of [AutoRecon](https://github.com/Tib3rius/AutoRecon).
+- [Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey): Under the mindset of "Hack Smarter", not harder (as often touted by OffSec), Tyler streams on both [Twitch](https://www.twitch.tv/hack_smarter) and [YouTube](https://www.youtube.com/@TylerRamsbey) sharing his methodologies for approaching CTF boxes on platforms like HackTheBox or discussing other aspects of the information security industry.
 
 ### Podcasts
 
@@ -179,6 +182,7 @@ Welcome to my repository of resources to help the budding information security p
 - [CISA Advisories (All)](https://www.cisa.gov/cybersecurity-advisories/all.xml)
 - [Crowdstrike Blog](https://www.crowdstrike.com/blog/feed)
 - [Expression with Curiosity: Security Lesson Bytes](https://maybelynplecic.substack.com/feed?sectionId=123773)
+- [MetaCTF Announcements](https://metactf.com/blog/tag/announcements/feed/)
 - [Hacker News](https://news.ycombinator.com/rss)
 - [Hacking Articles](http://hackingarticles.in/feed)
 - [HackTheBox  Blog (All Content)](https://www.hackthebox.com/rss/blog/all)
