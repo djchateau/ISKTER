@@ -21,15 +21,18 @@ Welcome to my repository of resources to help the budding information security p
 
 ## Tools
 
-### Multi-Use
+### Exploitation
 
-- [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created and maintained by UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
-
+- [HijackLibs](https://github.com/wietze/HijackLibs): Queryable database of publicly disclosed DLL hijacking opportunities.
 
 ### Home Labs
 
 - [GOAD (Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD): GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
 - [Microsoft Activation Scripts (MAS)](https://massgrave.dev/): A Windows and Office activator using HWID/Ohook/KMS38/Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
+### Multi-Use
+
+- [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created and maintained by UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
 
 ### Enumeration
 
@@ -39,7 +42,6 @@ Welcome to my repository of resources to help the budding information security p
 - [impacket](https://github.com/fortra/impacket): Impacket is a collection of Python3 classes focused on providing access to network packets. Impacket is highly effective when used in conjunction with a packet capture utility or package such as Pcapy. 
 - [nmap](https://github.com/nmap/nmap): A comprehensive network mapping and enumeration tool with scripting extensibility.
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Scans and identifies software/services used on a given target website.
-
 
 
 #### Privilege Escalation
@@ -150,6 +152,8 @@ Welcome to my repository of resources to help the budding information security p
 ### Notable Creators/Streamers
 
 - [DJ Chateau](https://www.twitch.tv/dj_chateau): Ok, sure. I'm tooting my own horn here, but I stream on Twitch pretty regularly doing boxes from platforms like TryHackMe, HackTheBox, and react to and discuss various information security topics.
+- [Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey): Under the mindset of "Hack Smarter", not harder (as often touted by OffSec), Tyler streams on both [Twitch](https://www.twitch.tv/hack_smarter) and [YouTube](https://www.youtube.com/@TylerRamsbey) sharing his methodologies for approaching CTF boxes on platforms like HackTheBox or discussing other aspects of the information security industry.
+
 - [John Hammand](https://www.youtube.com/c/JohnHammond010/playlists): Security researcher at Huntress with a large following and a solid number of videos going over various security news, CTFs and other platforms like TryHack and HackTheBox.
 - [LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN): LiveOverflow has an excellent array of videos on binary exploitation and reverse-engineering that are worth going through.
 - [Tib3rius](https://www.youtube.com/@Tib3rius): Well-known web application pentester and creator of [AutoRecon](https://github.com/Tib3rius/AutoRecon).
