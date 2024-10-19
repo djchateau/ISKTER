@@ -147,6 +147,8 @@ Welcome to my repository of resources to help the budding information security p
 - **Reddit:**
   - [/r/LiveOverflow](https://www.reddit.com/r/LiveOverflow/)
   - [/r/securityCTF](https://www.reddit.com/r/securityCTF/)
+- **Security Groups**
+  - [HakSTL](https://hakstl.com/)
 
 ## Content Creators/Streamers
 
