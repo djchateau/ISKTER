@@ -21,6 +21,10 @@ Welcome to my repository of resources to help the budding information security p
 
 ## Tools
 
+### Evasion
+
+- [PowerShell Obfuscation Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible): A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts to bypass signature-based detection, compiled for educational purposes. 
+
 ### Exploitation
 
 - [HijackLibs](https://github.com/wietze/HijackLibs): Queryable database of publicly disclosed DLL hijacking opportunities.
@@ -32,13 +36,16 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Multi-Use
 
+- [Cache Sleuth](https://www.cachesleuth.com/): A lot of useful tools, particularly for decoding/encoding text, as well as some useful interpreters.
 - [CyberChef](https://github.com/gchq/CyberChef): Self-described as the "Cyber Swiss Army Knife" created and maintained by UK's four-letter glowies, it contains an impressive amount of functionality for doing analysis and assisting in other cybersecurity-related work and activities, such as CTFs.
+- [HackTricks](https://book.hacktricks.xyz/): An extensive wiki with tips, methodologies and explanation of techniques for red teaming, pentesting and CTFs.
 
 ### Enumeration
 
 #### Users
 
 - [Finger User Enumeration Script](https://github.com/pentestmonkey/finger-user-enum): Username guessing tool primarily for use against the default Solaris finger service. Also supports relaying of queries through another finger server.
+- [BloodHound Community Edition](https://github.com/BloodHoundAD/BloodHound): Intended to identify flaws in a given Active Directory setup, BloodHound is useful for enumeration of users and objects found within these environment. An enterprise edition of this software is also available to assist in defending an environment from accidental slips configuration within an environment that might expose an organization to unnecessary privilege escalation.
 
 #### Network
 
@@ -54,6 +61,7 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Reverse-Engineering
 
+- [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy): A cross-platform disassembler of .NET binaries. Particularly useful in cases where a Linux machine is your only available option during an engagement, CTF or challenge.
 - [de4js](https://de4js.kshift.me/): A JavaScript deobfuscator.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra): A software reverse-engineering framework created and maintained by everyone's favorite glowies, the NSA.
 - [jd-gui](https://github.com/java-decompiler/jd-gui): A Java decompiler.
@@ -103,8 +111,10 @@ Welcome to my repository of resources to help the budding information security p
 - [pwn.college](https://pwn.college)
 
 ## Capture the Flags (CTF)
-
+ 
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf): A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 - [ångstromCTF](https://angstromctf.com/)
+- [CTF101](https://ctf101.org/): A site documenting the basics of playing Capture the Flags.  
 - [CyberStakes](https://www.acictf.com/)
 - [MetaCTF Competition](https://app.metactf.com/): Great CTF for a short CTF to flex your muscle on.
 - [picoCTF](https://picoctf.com/)
@@ -114,7 +124,7 @@ Welcome to my repository of resources to help the budding information security p
 - [PPP](https://zaratec.io/ctf-practice/)
 - [OverTheWire](https://overthewire.org/wargames/): Great beginner platform for those looking to getting into CTFs to practice on Linux boxes, particularly their Bandit server.
 - [RPISEC](https://github.com/RPISEC/MBE/tree/master)
-- [UnderTheWire](https://underthewire.tech/wargames)
+- [UnderTheWire](https://underthewire.tech/wargames): Similar to OverTheWire, but using PowerShell and focuses on a Windows environment instead of a Linux environment.
 
 ### Classes
 
@@ -129,10 +139,11 @@ Welcome to my repository of resources to help the budding information security p
 ### Note-Taking
 
 - [Obsidian](https://obsidian.md/): Note-taking application available on both desktop and mobile using Markdown and a diverse array of community plugins to customize your note-taking to your workflow. Because everything is stored in Markdown and stored locally, it can make transforming your notes into reports that you may need to generate down the road.
+- [docsthebox](https://github.com/goproslowyo/docsthebox): A Python program to utilize with HackTheBox if you are a user of Notion. Doesn't really account for Windows users, so you'll need to read the documentation to adjust your script accordingly.
 
 ### Reporting
 
-- [Dradis CE](https://dradis.com/ce/)
+- [Dradis CE](https://dradis.com/ce/): An open-source pentesting report generation program. Some features are limited within the Community Edition, but otherwise a solid tool.
 - [SysReptor](https://github.com/syslifters/sysreptor/): A fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people. Easy report writing using Markdown, HTML and CSS that can be converted into a clean looking PDF. Open-source and self-hosting options are available.
 
 ## Community/Discussion
@@ -167,7 +178,10 @@ Welcome to my repository of resources to help the budding information security p
 
 - [CTF Radiooo](https://www.youtube.com/channel/UC-aOX0H7RXOrxzzJjWb17lg)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [InfoSec to Insanity](https://www.youtube.com/@infosec2insanity)
 - [Security Chipmunks](https://securitychipmunks.com/)[^2]
+- [Shared Security](https://sharedsecurity.net/)
+- [Professionally Evil Perspective](https://secureideas.libsyn.com/)
 - [Unsecurity](https://frsecure.com/unsecurity/)
 
 ## News Aggregation
@@ -192,6 +206,7 @@ Welcome to my repository of resources to help the budding information security p
 - [IT Security Guru](https://www.itsecurityguru.org/feed/)
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
 - [Sentinel One Blog](https://www.sentinelone.com/blog/feed/)
+- [SecureIdeas: Professionally Evil Insights](https://www.secureideas.com/blog/rss.xml)
 - [Schneir on Security](https://www.schneier.com/feed/atom/)
 - [The Hacker News](https://feeds.feedburner.com/TheHackersNews)
 - [Troy Hunt's Blog](https://www.itsecurityguru.org/feed/)
