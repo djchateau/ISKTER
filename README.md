@@ -62,6 +62,7 @@ Welcome to my repository of resources to help the budding information security p
 ### Reverse-Engineering
 
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy): A cross-platform disassembler of .NET binaries. Particularly useful in cases where a Linux machine is your only available option during an engagement, CTF or challenge.
+- [Codemerx Decompiler](https://decompiler.codemerx.com/): Cross-platform .NET decompiler.
 - [de4js](https://de4js.kshift.me/): A JavaScript deobfuscator.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra): A software reverse-engineering framework created and maintained by everyone's favorite glowies, the NSA.
 - [jd-gui](https://github.com/java-decompiler/jd-gui): A Java decompiler.
