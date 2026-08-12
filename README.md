@@ -14,6 +14,10 @@ Welcome to my repository of resources to help the budding information security p
 - [Dawn of the Code War: America's Battle Against Russia, China, and the Rising Global Cyber Threat](https://www.amazon.com/Dawn-of-Code-War-audiobook/dp/B07J9L41HH/) by John Carlin
 - [The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age](https://www.amazon.com/Perfect-Weapon-Sabotage-Fear-Cyber/dp/0451497902/) by David Sanger
 - [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/) by Andy Greenberg
+- [The IBM Style Guide: Conventions for Writers and Editors](https://www.oreilly.com/library/view/ibm-style-guide/9780132118989/) by Francis DeRespinis, Peter Hayward, Jana Jenkins, Amy Laird, Leslie McDonald, Eric Radzinski
+- [Developing Quality Technical Information: A Handbook for Writers and Editors, Third Edition](https://www.oreilly.com/library/view/developing-quality-technical/9780133119046/) by Michelle Carey, Moira McFadden Lanyi, Deirdre Longo, Eric Radzinski, Shannon Rouiller, Elizabeth Wilde
+- [Practical Malware Analysis](https://www.penguinrandomhouse.com/books/565463/practical-malware-analysis-by-michael-sikorski-andrew-honig/) by Michael Sikorski & Andrew Honig
+- [Measuring and Managing Information Risk: A FAIR Approach](https://www.sciencedirect.com/book/monograph/9780124202313/measuring-and-managing-information-risk) by Jack Freund & Jack Jones
 
 ### Networking and Cybersecurity Concepts:
 
