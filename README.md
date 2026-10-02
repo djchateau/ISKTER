@@ -19,11 +19,19 @@ Welcome to my repository of resources to help the budding information security p
 - [Practical Malware Analysis](https://www.penguinrandomhouse.com/books/565463/practical-malware-analysis-by-michael-sikorski-andrew-honig/) by Michael Sikorski & Andrew Honig
 - [Measuring and Managing Information Risk: A FAIR Approach](https://www.sciencedirect.com/book/monograph/9780124202313/measuring-and-managing-information-risk) by Jack Freund & Jack Jones
 
+
 ### Networking and Cybersecurity Concepts:
 
 - [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/) by Jon Erickson
 
 ## Tools
+
+### OSINT
+
+- [GitLeaks](https://github.com/gitleaks/gitleaks): Useful tool for scanning for creds or other sensitive information left in a repository.
+- [GitRob](https://github.com/michenriksen/gitrob): Good for searching through a lot of repositories on GitHub, but requires a personal access token to use it effectively.
+- [Sherlock](https://github.com/sherlock-project/sherlock): Automated username search across social media platforms.
+
 
 ### Evasion
 
