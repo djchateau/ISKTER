@@ -156,8 +156,10 @@ Welcome to my repository of resources to help the budding information security p
 
 ### Reporting
 
+- [disclose.io](https://disclose.io/): Useful disclosure and vulnerability reporting framework, as well as tools to help organization setup program to allow hackers to responsibly disclose.
 - [Dradis CE](https://dradis.com/ce/): An open-source pentesting report generation program. Some features are limited within the Community Edition, but otherwise a solid tool.
 - [SysReptor](https://github.com/syslifters/sysreptor/): A fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people. Easy report writing using Markdown, HTML and CSS that can be converted into a clean looking PDF. Open-source and self-hosting options are available.
+
 
 ## Community/Discussion
 
